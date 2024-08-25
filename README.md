@@ -1,0 +1,1 @@
+In this project I want to explore the use of dictionary and list structures.

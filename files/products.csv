@@ -1,0 +1,5 @@
+﻿Product_id;product_description;qtd_value;price;availability
+1;Televison 17';10;5000;true
+2;Washing Machine;5;6000;true
+3;refrigerator;15;4000;true
+4;vacuum cleaner;0;1500;false
