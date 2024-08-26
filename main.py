@@ -1,21 +1,7 @@
+from number_list import order_list
 
+list1 =[59,-56,99.34,-235,1857.34]
 
-produto1: dict = {
-    "nome":"sapato",
-    "quantidade":30,
-    "valor":10.35,
-    "disponibilidade": True
-}
+new_list1 = order_list(list1)
 
-produto2: dict = {
-    "nome" : "telefisao",
-    "quantidade": 35,
-    "valor": 1000,
-    "disponibilidade": False
-}
-
-carrinho : list = []
-carrinho.append(produto1)
-carrinho.append(produto2)
-
-print(carrinho)
+print(new_list1)
