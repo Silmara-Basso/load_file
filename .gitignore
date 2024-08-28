@@ -17,6 +17,10 @@ ENV/
 env.bak/
 venv.bak/
 
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
 # data
 ./data/weather_stations.csv
 
