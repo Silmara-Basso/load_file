@@ -1,0 +1,22 @@
+
+# Distribution / packaging
+.Python
+
+# pyenv
+.python-version
+
+# poetry
+poetry.lock
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# data
+./data/weather_stations.csv
+
