@@ -42,7 +42,7 @@ def create_df_with_pandas(file_name, total_rows, chunk_size):
 if __name__ == "__main__":
     import time
 
-    print("Iniciando o processamento do arquivo.")
+    print("Starting file processing.")
     start_time = time.time()
     df = create_df_with_pandas(file_name, total_rows, chunk_size)
     took = time.time() - start_time
